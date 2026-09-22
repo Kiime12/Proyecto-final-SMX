@@ -1,6 +1,6 @@
 # Proyecto-final-SMX
 Información de todo el proyecto final.
-* [Índice]
+* [Índice) (#Índice)
 * Introducción - ¿qué estamos haciendo?
 * Briefing de ideas
 * Arquitectura del software
