@@ -1,6 +1,6 @@
 # Proyecto-final-SMX
 Información de todo el proyecto final.
-* Índice
+* [Índice] (https://github.com/Kiime12/Proyecto-final-SMX#%C3%ADndice)
 * Introducción - ¿qué estamos haciendo?
 * Briefing de ideas
 * Arquitectura del software
