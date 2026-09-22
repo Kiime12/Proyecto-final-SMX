@@ -24,4 +24,4 @@ Información de todo el proyecto final.
 * Bibliografía
 * Guías de usuario
 
-**Índice**  
+Índice  
