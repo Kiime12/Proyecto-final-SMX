@@ -1,7 +1,7 @@
 # Proyecto-final-SMX
 Información de todo el proyecto final.
 # Índice
-* Introducción - ¿qué estamos haciendo?
+* [Introducción](#Introducción)
 * Briefing de ideas
 * Arquitectura del software
 * Tecnologías a utilizar
@@ -24,7 +24,7 @@ Información de todo el proyecto final.
 * Bibliografía
 * Guías de usuario
 
-# Índice
+
 # Introducción
 * * * ¿Qué estamos haciendo?
 # Briefing de ideas
