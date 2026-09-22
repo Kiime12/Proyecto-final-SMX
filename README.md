@@ -1,6 +1,6 @@
 # Proyecto-final-SMX
 Información de todo el proyecto final.
-* [Índice] ([https://github.com/Kiime12/Proyecto-final-SMX/tree/main#%C3%ADndice](https://github.com/Kiime12/Proyecto-final-SMX#%C3%ADndice))
+* Índice
 * Introducción - ¿qué estamos haciendo?
 * Briefing de ideas
 * Arquitectura del software
@@ -32,8 +32,8 @@ Información de todo el proyecto final.
 # Tecnologías a utilizar
 # Red
 # Diagrama de red
-### Mapa físico
-### Mapa lógico
+#### Mapa físico
+#### Mapa lógico
 # Web
 # Diseño
 # Mockup
