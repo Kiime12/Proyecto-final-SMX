@@ -1,5 +1,5 @@
 # Proyecto-final-SMX
-K-Supers
+# K-Supers
 # Índice
 * [Introducción](#Introducción)
 * [Briefing de ideas](Briefing-de-ideas)
