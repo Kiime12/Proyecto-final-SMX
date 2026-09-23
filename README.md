@@ -1,4 +1,4 @@
-# K-Supers
+# Sparen Supers
 Proyecto-final-SMX
 # Índice
 * [Introducción](#Introducción)
