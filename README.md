@@ -1,5 +1,5 @@
 # Proyecto-final-SMX
-Información de todo el proyecto final.
+K-Supers
 # Índice
 * [Introducción](#Introducción)
 * [Briefing de ideas](Briefing-de-ideas)
@@ -24,7 +24,8 @@ Información de todo el proyecto final.
 
 
 # Introducción
-* * * ¿Qué estamos haciendo?
+* * * ¿Qué estamos haciendo? * * *
+La idea del proyecto es crear una web donde podamos obtener los mejores precios de cada supermercado, es decir, 
 # Briefing de ideas
 # Arquitectura del software
 # Tecnologías a utilizar
