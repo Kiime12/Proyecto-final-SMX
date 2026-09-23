@@ -25,7 +25,8 @@ K-Supers
 
 # Introducción
 ¿Qué estamos haciendo?
- La idea del proyecto es crear una web donde podamos obtener los precios de los supermercados más famosos, ofreciéndonos los mejores precios de cada producto en orden ascendente. También contará con una lista de la compra para poder guardar los productos deseados de cada supermercado para no olvidarnos de nada.  
+
+La idea del proyecto es crear una web donde podamos obtener los precios de los supermercados más famosos, ofreciéndonos los mejores precios de cada producto en orden ascendente. También contará con una lista de la compra para poder guardar los productos deseados de cada supermercado para no olvidarnos de nada.  
 # Briefing de ideas
 # Arquitectura del software
 # Tecnologías a utilizar
