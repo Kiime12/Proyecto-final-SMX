@@ -24,8 +24,8 @@ K-Supers
 
 
 # Introducción
-* * * ¿Qué estamos haciendo? * * *
-La idea del proyecto es crear una web donde podamos obtener los mejores precios de cada supermercado, es decir, 
+* ¿Qué estamos haciendo?
+* La idea del proyecto es crear una web donde podamos obtener los mejores precios de cada supermercado, es decir, 
 # Briefing de ideas
 # Arquitectura del software
 # Tecnologías a utilizar
