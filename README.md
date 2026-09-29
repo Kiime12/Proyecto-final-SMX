@@ -3,7 +3,8 @@ Proyecto-final-SMX
 
 <details>
  <summary><h2 style="display: inline-block;">Índice</h2></summary>
-* [Introducción](#Introducción)
+ 
+* [Introducción](Introducción)
 * [Briefing de ideas](Briefing-de-ideas)
 * [Arquitectura del software](arquitectura-del-software)
 * [Tecnologías a utilizar](tecnologías-a-utilizar)
@@ -27,6 +28,7 @@ Proyecto-final-SMX
 
 <details>
  <summary><h2 style="display: inline-block;">Introducción</h2></summary>
+ 
 ¿Qué estamos haciendo?
 La idea del proyecto es crear una web donde podamos obtener los precios de los supermercados más famosos, ofreciéndonos los mejores precios de cada producto en orden ascendente. También contará con una lista de la compra para poder guardar los productos deseados de cada supermercado para no olvidarnos de nada.
 </details>
