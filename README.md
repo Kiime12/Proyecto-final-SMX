@@ -4,8 +4,8 @@ Proyecto-final-SMX
 <details>
  <summary><h2 style="display: inline-block;">Índice</h2></summary>
  
-* [Introducción](Introducción)
-* [Briefing de ideas](Briefing-de-ideas)
+* [Introducción](#Introducción)
+* [Briefing de ideas](#Briefing-de-ideas)
 * [Arquitectura del software](arquitectura-del-software)
 * [Tecnologías a utilizar](tecnologías-a-utilizar)
 * [Red](red)
