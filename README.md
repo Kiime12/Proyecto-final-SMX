@@ -1,6 +1,8 @@
 # Sparen Supers
 Proyecto-final-SMX
-# Índice
+
+<details>
+ <summary><h2 style="display: inline-block;">Índice</h2></summary>
 * [Introducción](#Introducción)
 * [Briefing de ideas](Briefing-de-ideas)
 * [Arquitectura del software](arquitectura-del-software)
@@ -21,7 +23,7 @@ Proyecto-final-SMX
 * [Conclusiones](conclusiones)
 * [Bibliografía](bibliografía)
 * [Guías de usuario](guías-de-usuario)
-
+</details>
 
 <details>
  <summary><h2 style="display: inline-block;">Introducción</h2></summary>
