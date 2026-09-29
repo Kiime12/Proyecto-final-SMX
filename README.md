@@ -1,4 +1,4 @@
-# Sparen Supers
+<h1><b>SparenSupers</b></h1>
 Proyecto-final-SMX
 
 <details>
