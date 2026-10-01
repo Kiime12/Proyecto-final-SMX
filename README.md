@@ -29,13 +29,13 @@ Proyecto-final-SMX
 <details>
  <summary><h2 style="display: inline-block;">Introducción</h2></summary>
  
-¿Qué estamos haciendo?
-La idea del proyecto es crear una web donde podamos obtener los precios de los supermercados más famosos, ofreciéndonos los mejores precios de cada producto en orden ascendente. También contará con una lista de la compra para poder guardar los productos deseados de cada supermercado para no olvidarnos de nada.
 </details>
 
 <details>
  <summary><h2 style="display: inline-block;">Briefing de ideas</h2></summary>
-  
+ - La selección de mi idea se basa en la optimización de recursos a la hora de hacer la compra, ayudándonos a ahorrar dinero, energía, y si se puede conseguir, gasolina.
+  - La idea del proyecto es crear una web donde podamos obtener los precios de los supermercados más famosos (Mercadona, Dia, Lidl, Carrefour), ofreciéndonos los mejores precios de cada producto en orden ascendente, esta web también contará con una lista de la compra para poder guardar los productos deseados de cada supermercado para no olvidarnos de nada. Un extra que me gustaría poder hacer si me da tiempo es que esta web pueda hacer rutas óptimas para evitar hacer rutas más largas entre supermercados. 
+ Este proyecto va dirigido a tosas las personas que quieran ahorrar o evitar pagar de más a la hora de hacer la com
 </details>
 
 
