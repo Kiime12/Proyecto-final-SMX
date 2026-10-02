@@ -32,10 +32,16 @@ Proyecto-final-SMX
 </details>
 
 <details>
- <summary><h2 style="display: inline-block;">Briefing de ideas</h2></summary>
- - La selección de mi idea se basa en la optimización de recursos a la hora de hacer la compra, ayudándonos a ahorrar dinero, energía, y si se puede conseguir, gasolina.
-  - La idea del proyecto es crear una web donde podamos obtener los precios de los supermercados más famosos (Mercadona, Dia, Lidl, Carrefour), ofreciéndonos los mejores precios de cada producto en orden ascendente, esta web también contará con una lista de la compra para poder guardar los productos deseados de cada supermercado para no olvidarnos de nada. Un extra que me gustaría poder hacer si me da tiempo es que esta web pueda hacer rutas óptimas para evitar hacer rutas más largas entre supermercados. 
- Este proyecto va dirigido a tosas las personas que quieran ahorrar o evitar pagar de más a la hora de hacer la com
+ <summary><h2 style="display: inline-block;">Briefing</h2></summary>
+ La selección de mi idea se basa en la optimización de recursos a la hora de hacer la compra, ayudándonos a ahorrar dinero, energía, y si se puede conseguir, gasolina.
+ <br>
+ La idea del proyecto es crear una web donde podamos obtener los precios de los supermercados más famosos (Mercadona, Dia, Lidl, Carrefour), ofreciéndonos los mejores precios de cada producto en orden ascendente, esta web también contará con una lista de la compra para poder guardar los productos deseados de cada supermercado para no olvidarnos de nada. Un extra que me gustaría poder hacer si me da tiempo es que esta web pueda hacer rutas óptimas para evitar hacer rutas más largas entre supermercados. 
+ <br>
+ Este proyecto va dirigido a todas las personas que no quieren perder tiempo buscando los mejores precios entre supermercados  consiguiendo así, ahorrar tiempo y dinero a la hora de hacer la compra. 
+<br>
+ Las asignaturas que considero que predominaran en este proyecto serán <b>servicios red</b>, <b>seguridad informática</b> y <b>aplicaciones web</b> ya que por una parte servicios red me enseñará ya que por una parte, servicios red me enseñará a administrar el hosting, los puertos y la conectividad necesaria para mantener la web activa; seguridad informática garantizará la protección del sistema, la privacidad de los usuarios y el tráfico cifrado; mientras que aplicaciones web me dará las herramientas para diseñar una interfaz intuitiva y gestionar la base de datos de los productos.
+<br>
+ 
 </details>
 
 
@@ -149,6 +155,11 @@ Proyecto-final-SMX
 <details>
   <summary><h2 style="display: inline-block;">Bibliografía</h2></summary>
   
+</details>
+
+<details>
+  <summary><h2 style="display: inline-block;">Webgrafía</h2></summary>
+  - Uso de Gemini para consultar como estructurar mi reositorio
 </details>
 <details>
   <summary><h2 style="display: inline-block;">Guías de usuario</h2></summary>
